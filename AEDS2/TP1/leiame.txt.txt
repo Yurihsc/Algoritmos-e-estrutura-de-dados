@@ -1,0 +1,4 @@
+1- Ao reproduzir o programa ele esperará você entrar com um certo valor, o qual representa a posição do ponto que você deseja no espiral.
+2- Você digitará o valor da posição desejada, desde que seja pertecente ao conjunto dos números naturais.
+3- Assim que você digitar a posição desejada, é só apertar a tecla "enter" e o programa irá imprimir as coordenadas da posição a qual você digitou.
+4- Uma vez que reproduzido o programa, basta apertar a tecla "esc" do seu computador para fechar a janela do programa

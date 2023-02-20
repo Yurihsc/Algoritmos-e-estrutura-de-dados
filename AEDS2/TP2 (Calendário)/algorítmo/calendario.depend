@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1562083450 source:c:\users\lumbe\onedrive\desktop\calendario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pdfgen.h"
+
+1562082241 c:\users\lumbe\onedrive\desktop\calendario\pdfgen.h
+	<stdint.h>
+	<stdio.h>
+	"pdfgen.h"
+
+1562082240 source:c:\users\lumbe\onedrive\desktop\calendario\pdfgen.c
+	<ctype.h>
+	<errno.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<sys/stat.h>
+	<time.h>
+	"pdfgen.h"
+
+1562082240 source:c:\users\lumbe\onedrive\desktop\tp3\pdfgen.c
+	<ctype.h>
+	<errno.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<sys/stat.h>
+	<time.h>
+	"pdfgen.h"
+
+1562082241 c:\users\lumbe\onedrive\desktop\tp3\pdfgen.h
+	<stdint.h>
+	<stdio.h>
+	"pdfgen.h"
+
+1562099141 source:c:\users\lumbe\onedrive\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"pdfgen.h"
+
+1562082242 source:c:\users\marcos\downloads\aeds2_luizfernandoyurihcoelho (1)\algorítmo\pdfgen.c
+	<ctype.h>
+	<errno.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<sys/stat.h>
+	<time.h>
+	"pdfgen.h"
+
+1562082242 c:\users\marcos\downloads\aeds2_luizfernandoyurihcoelho (1)\algorítmo\pdfgen.h
+	<stdint.h>
+	<stdio.h>
+	"pdfgen.h"
+
+1562101753 source:c:\users\marcos\downloads\aeds2_luizfernandoyurihcoelho (1)\algorítmo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"pdfgen.h"
+	"calendario.h"
+
+1562100512 c:\users\marcos\downloads\aeds2_luizfernandoyurihcoelho (1)\algorítmo\calendario.h
+
+1562082242 source:c:\users\lumbe\onedrive\desktop\pastas\facul\aeds2_luizfernandoyurihcoelho\algorítmo\pdfgen.c
+	<ctype.h>
+	<errno.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<sys/stat.h>
+	<time.h>
+	"pdfgen.h"
+
+1562082242 c:\users\lumbe\onedrive\desktop\pastas\facul\aeds2_luizfernandoyurihcoelho\algorítmo\pdfgen.h
+	<stdint.h>
+	<stdio.h>
+	"pdfgen.h"
+
+1562102300 source:c:\users\lumbe\onedrive\desktop\aeds2_luizfernandoyurihcoelho\aeds2_luizfernandoyurihcoelho\algorítmo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"pdfgen.h"
+
+1562082242 c:\users\lumbe\onedrive\desktop\aeds2_luizfernandoyurihcoelho\aeds2_luizfernandoyurihcoelho\algorítmo\pdfgen.h
+	<stdint.h>
+	<stdio.h>
+	"pdfgen.h"
+
+1562082242 source:c:\users\lumbe\onedrive\desktop\aeds2_luizfernandoyurihcoelho\aeds2_luizfernandoyurihcoelho\algorítmo\pdfgen.c
+	<ctype.h>
+	<errno.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<sys/stat.h>
+	<time.h>
+	"pdfgen.h"
+

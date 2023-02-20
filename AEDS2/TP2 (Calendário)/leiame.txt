@@ -1,0 +1,71 @@
+﻿LEIA-ME
+
+
+*ANTES DE USAR CERTIFIQUE-SE DE QUE O ARQUIVO DE EVENTOS ESTÁ NA PASTA ONDE O PROGRAMA ESTÁ LOCALIZADO, UMA VEZ QUE, PARA LER O ARQUIVO DE EVENTOS, ELE DEVE ESTAR NA MESMA PASTA DO PROGRAMA. DO CONTRÁRIO, O PROGRAMA PROVAVELMENTE NÃO IRÁ CONSEGUIR LOCALIZAR O ARQUIVO DE EVENTOS*
+
+
+
+
+1- ao abrir o programa aparecerá a opção do idioma, se você deseja entrar usando o programa em inglês(1) ou português(0)
+
+
+
+
+2- ao selecionar o idioma ele pedirá para você digitar o nome do arquivo o qual tem-se os eventos salvos
+
+
+
+
+3- digitando o nome do arquivo você entrará no menu do programa, nele é mostrado as opções com as funções as quais o programa pode executar
+
+
+.....opção (1)
+        nesta opção você pode visualizar o calendário em forma matricial com os eventos ordenados por dia e tipo, respectivamente
+        selecionando-a, após digitar o mês e o ano desejado, o programa te dará a opção de, (1)mostrar algum ou alguns tipos específicos de eventos (2)mostrar todos os tipos de evento do mês desejado
+        se optar pela opção (1), basta digitar o tipo de evento desejado ("AFVO") e o programa irá imprimir apenas os eventos do mês do tipo desejado, se optar pela opção (2), ele irá imprimir todos os eventos do mês desejado
+
+
+.....opção (2)
+        nesta opção você pode visualizar o calendário em forma linear, apresentando os dias do mês em linhas diferentes com os respectivos eventos abaixo deles
+
+
+.....opção (3)
+        nesta opção você pode pesquisar uma data e descobrir quais eventos você tem na data determinada
+        ao selecionar esta opção você digita o mês e ano desejados, após isso o programa perguntará qual dia você deseja pesquisar, assim que digitar o dia ele listará, caso tenha, os eventos deste mesmo dia
+
+
+.....opção (4)
+        esta opção serve apenas para mudar o idioma do programa durante a interação com ele
+
+
+.....opção (5)
+        nesta opção você pode pesquisar o tipo de evento desejado, seja ele "A", "F", "V" ou "O"
+        ao selecionar esta opção o programa pedirá que você entre com os tipos desejados, podendo ser mais de um
+        digitando os tipos desejados ele irá imprimir, em ordem de ano, depois mês, depois dia e por ultimo prioridade, todos os eventos dos tipos desejados presentes no arquivo
+
+
+.....opção (6)
+        nesta opção é possível pesquisar a descrição do evento desejado, selecionando-a você entra com a descrição do evento desejado e ele varre o arquivo em busca deste evento, achando-o ele lhe mostrará quando o evento ocorre
+
+
+.....opção (7)
+        nesta opção você entra no modo pdf, que visa imprimir o calendário desejado, com os eventos em um arquivo pdf
+        selecionando-a o programa pedirá pra você digitar o mês e o ano desejado
+        ao digitar ele lhe perguntará de qual maneira você deseja salvar o calendário em pdf
+        ...(1) se deseja ver apenas o calendário do mês desejado
+        ...(2) se deseja ver o calendário com o mês desejado + o próximo mês minimizado no canto superior direito
+        ...(3) se deseja ver o calendário com o mês desejado + o próximo mês minimizado no canto superior direito + o mês anterior minimizado no canto superior esquerdo
+        ao definir sua preferência o programa irá fechar e o calendário em pdf estará disponível na pasta onde o programa está localizado com o nome de "calendário".
+
+
+4- Leia atentamente as instruções escritas na tela.
+
+5- É necessário que os arquivos "pdfgen.c", "pdfgen.h","main.c" sejam abertos simultaneamente no programa, que você encontrará na pasta "algorítmo".
+
+
+Cuidados:
+O programa é escrito em linguagem c.
+Para utilizar o programa é necessário um ambiente computacional brevemente estabelecido. Desse modo, o programa é projetado para funcionar em plataformas como devc++ , xcode etc.
+
+
+Faça bom uso do programa!
